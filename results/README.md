@@ -1,0 +1,1 @@
+Generated analysis outputs are stored here and ignored by Git. Each run writes its own validation report and R session information. This directory contains no precomputed outputs masquerading as a new analysis.

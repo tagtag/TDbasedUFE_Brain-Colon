@@ -1,0 +1,14 @@
+[
+  {
+    "library": "GO_Biological_Process_2026",
+    "universe": 15287,
+    "query": 730,
+    "terms": 5954
+  },
+  {
+    "library": "PanglaoDB_Augmented_2021",
+    "universe": 6479,
+    "query": 525,
+    "terms": 178
+  }
+]

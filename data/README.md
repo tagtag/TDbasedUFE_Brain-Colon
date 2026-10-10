@@ -1,0 +1,1 @@
+Downloaded source data are stored here and ignored by Git. Run `Rscript run_analysis.R download`, or place the original Zenodo ZIP and Ensembl release-116 GTF here manually using the filenames in the main README.
