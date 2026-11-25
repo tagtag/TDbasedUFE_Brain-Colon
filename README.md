@@ -2,6 +2,13 @@
 
 Reproducibility materials for **Unsupervised tensor integration of hippocampal and colonic multi-omics reveals enteric neural signatures in cognitive aging**.
 
+Y.-h. Taguchi and Turki Turki. bioRxiv (2026).
+
+- Preprint (version 1): https://www.biorxiv.org/content/10.64898/2026.11.20.768248v1
+- DOI: https://doi.org/10.64898/2026.11.20.768248
+
+This preprint has not yet been peer reviewed.
+
 This repository provides an R workflow for the common-gene tensor analysis, behavioral correlations, enteric marker enrichment, and comparison with published Boruta-selected features. All analysis stages run sequentially.
 
 ## Quick start
